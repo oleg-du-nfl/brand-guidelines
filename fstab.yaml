@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: [content.da.live](https://content.da.live/oleg-du-nfl/brand-guidelines/)
+    url: https://content.da.live/oleg-du-nfl/brand-guidelines/
     type: markup
 
